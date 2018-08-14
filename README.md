@@ -2,7 +2,7 @@
 Content for Week 2 of Getty Code Camp 2018. Covering Markdown, Version Control, and Git.
 
 ## Markdown Resources
-[Markdown Cheat Sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)  
+[Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)  
 [Browserling - Markdown to HTML Converter](https://www.browserling.com/tools/markdown-to-html)  
 
 ### Further Learning
